@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Olá<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-<!--
-**ggtenari/ggtenari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :smiley_cat: Sou estudante da Trybe
 
-Here are some ideas to get you started:
+### Esse é meu primeiro README, espero que goste 😄
+### e...você pode me chamar de tenari!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## By the way here are some of my statistics 🚀
+![ggtenari's github stats](https://github-readme-stats.vercel.app/api?username=ggtenari&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ggtenari&theme=tokyonight" alt="mystreak"/>
+![ggtenari's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggtenari&theme=tokyonight&layout=compact)
+
+🌱 Atualmente estou estudando back-end na Trybe, ultilizando MySQL e Sequelize!! 
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ggtenari@gmail.com)](ggtenari@gmail.com)
+
+
+------
+Créditos do README para: [AkuraDiary](https://github.com/AkuraDiary)
+
+Ultima edição em 31/10/2022
+
