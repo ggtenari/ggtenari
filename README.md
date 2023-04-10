@@ -7,7 +7,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Aqui está algumas de minhas estatisticas🚀 ##
+## Aqui estão algumas de minhas estatisticas🚀 ##
 ![ggtenari's github stats](https://github-readme-stats.vercel.app/api?username=ggtenari&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggtenari&theme=tokyonight" alt="mystreak"/>
 ![ggtenari's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggtenari&theme=tokyonight&layout=compact)
