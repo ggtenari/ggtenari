@@ -23,5 +23,5 @@
 ------
 Créditos do README para: [AkuraDiary](https://github.com/AkuraDiary)
 
-Ultima edição em 31/10/2022
+Ultima edição em 10/04/2023
 
